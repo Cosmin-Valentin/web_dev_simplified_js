@@ -1,0 +1,1 @@
+import { setupStore } from './store'
